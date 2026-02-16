@@ -1,0 +1,40 @@
+0,type_of_delivery,,,,,,,,,,,,,
+courier_delivery,Express,Next Day,Reguler,Same Day,Grand Total,,courier_delivery,AVERAGE of estimated_delivery_time_days,,courier_delivery,AVERAGE of product_rating,,courier_delivery,COUNT of product_id
+J&T Express,2.665822785,2.871495327,2.930174564,2.897435897,2.843315185,,J&T Express,2.843315185,,J&T Express,2.994555354,,J&T Express,1653
+Jne,2.701388889,2.778645833,2.832923833,2.892857143,2.802513465,,Jne,2.802513465,,Jne,2.981448235,,Jne,1671
+Ninja Xpress,2.634032634,2.775561097,2.785882353,2.72195122,2.728528529,,Ninja Xpress,2.728528529,,Ninja Xpress,2.968168168,,Ninja Xpress,1665
+Pos Indonesia,2.927038627,2.803571429,2.824719101,2.915048544,2.869387755,,Pos Indonesia,2.869387755,,Pos Indonesia,3.026239067,,Pos Indonesia,1715
+Sicepat,2.758865248,2.835680751,2.845637584,2.861915367,2.826361032,,Sicepat,2.826361032,,Sicepat,3.006303725,,Sicepat,1745
+Grand Total,2.741724942,2.814377154,2.842823529,2.858938547,2.814415907,,Grand Total,2.814415907,,Grand Total,2.995620784,,Grand Total,8449
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+type_of_delivery,AVERAGE of estimated_delivery_time_days,,,,,,,,,,,,,
+Express,2.741724942,,,,,,,,,,,,,
+Next Day,2.814377154,,,,,,,,,,,,,
+Reguler,2.842823529,,,,,,,,,,,,,
+Same Day,2.858938547,,,,,,,,,,,,,
+Grand Total,2.814415907,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,city,AVERAGE of estimated_delivery_time_days,,,,,,,,,,
+,,,Bandar Lampung,2.866834171,,,,,,,,,,
+,,,Bandung,2.93144208,,,,,,,,,,
+,,,Batam,2.786407767,,,,,,,,,,
+,,,Bekasi,2.810055866,,,,,,,,,,
+,,,Bogor,2.926829268,,,,,,,,,,
+,,,Denpasar,2.795774648,,,,,,,,,,
+,,,Depok,2.952595937,,,,,,,,,,
+,,,Jakarta,2.875294118,,,,,,,,,,
+,,,Makassar,2.686363636,,,,,,,,,,
+,,,Malang,2.611494253,,,,,,,,,,
+,,,Medan,2.833333333,,,,,,,,,,
+,,,Padang,2.910480349,,,,,,,,,,
+,,,Palembang,2.725961538,,,,,,,,,,
+,,,Pekanbaru,2.719806763,,,,,,,,,,
+,,,Pontianak,2.898734177,,,,,,,,,,
+,,,Semarang,2.970660147,,,,,,,,,,
+,,,Surabaya,2.91627907,,,,,,,,,,
+,,,Surakarta,2.656934307,,,,,,,,,,
+,,,Tangerang,2.702272727,,,,,,,,,,
+,,,Yogyakarta,2.705336427,,,,,,,,,,
+,,,Grand Total,2.814415907,,,,,,,,,,
