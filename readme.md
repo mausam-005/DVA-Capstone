@@ -110,5 +110,3 @@ The interactive dashboard was built in **Google Sheets** and includes the follow
 ## Team
 
 **Group 4 — Section A**
-
-> Submitted as per the project guidelines. Deadline: 18th February 2026 @ 11:59 PM IST.
