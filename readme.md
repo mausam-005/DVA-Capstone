@@ -101,8 +101,8 @@ The interactive dashboard was built in **Google Sheets** and includes the follow
 
 ## Tools Used
 
-- **Microsoft Excel / Google Sheets** — Data cleaning, pivot tables, dashboard
-- **Google Slides** — Presentation
+- **Google Sheets** — Data cleaning, pivot tables, dashboard
+- **Canva Slides** — Presentation
 - **GitHub** — Version control and project submission
 
 ---
